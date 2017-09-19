@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<p>hello world, holddie!wonima</p>
+<p>hello world, holddie!  jenkins maven 项目打包一起部署 Tomcat</p>
 </body>
 </html>
